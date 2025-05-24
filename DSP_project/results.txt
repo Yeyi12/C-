@@ -1,0 +1,88 @@
+Run 1:
+Best Correlation Score: 0.1955
+Best Accuracy Score: 0.9102
+
+Selected Features:
+ ['CardiovascularDisease', 'BehavioralProblems', 'SleepQuality', 'DifficultyCompletingTasks', 'DietQuality', 'PersonalityChanges', 'FamilyHistoryAlzheimers', 'DiastolicBP', 'CholesterolTriglycerides', 'MemoryComplaints', 'FunctionalAssessment', 'ADL', 'CholesterolHDL', 'MMSE', 'AlcoholConsumption']
+================================================== 
+
+==================================================
+Run 2:
+Best Correlation Score: 0.2241
+Best Accuracy Score: 0.9136
+
+Selected Features:
+ ['Diabetes', 'BehavioralProblems', 'Confusion', 'FamilyHistoryAlzheimers', 'Gender', 'DiastolicBP', 'MemoryComplaints', 'FunctionalAssessment', 'ADL', 'Ethnicity', 'MMSE', 'Hypertension']
+================================================== 
+
+==================================================
+Run 3:
+Best Correlation Score: 0.2480
+Best Accuracy Score: 0.9182
+
+Selected Features:
+ ['BehavioralProblems', 'Gender', 'MemoryComplaints', 'FunctionalAssessment', 'ADL', 'MMSE']
+================================================== 
+
+==================================================
+Run 4:
+Best Correlation Score: 0.2474
+Best Accuracy Score: 0.9129
+
+Selected Features:
+ ['Diabetes', 'BehavioralProblems', 'DietQuality', 'EducationLevel', 'Gender', 'CholesterolTriglycerides', 'MemoryComplaints', 'CholesterolHDL', 'FunctionalAssessment', 'CholesterolTotal', 'ADL', 'MMSE']
+================================================== 
+
+==================================================
+Run 5:
+Best Correlation Score: 0.2140
+Best Accuracy Score: 0.9122
+
+Selected Features:
+ ['BehavioralProblems', 'FunctionalAssessment', 'ADL', 'CholesterolHDL', 'Confusion', 'CardiovascularDisease', 'SleepQuality', 'HeadInjury', 'DietQuality', 'PersonalityChanges', 'PhysicalActivity', 'Disorientation', 'DiastolicBP', 'Ethnicity', 'Smoking', 'MMSE', 'FamilyHistoryAlzheimers', 'MemoryComplaints', 'AlcoholConsumption']
+================================================== 
+
+==================================================
+Run 6:
+Best Correlation Score: 0.2195
+Best Accuracy Score: 0.9142
+
+Selected Features:
+ ['Diabetes', 'BehavioralProblems', 'SleepQuality', 'Confusion', 'PersonalityChanges', 'EducationLevel', 'MemoryComplaints', 'FunctionalAssessment', 'ADL', 'Ethnicity', 'MMSE', 'SystolicBP']
+================================================== 
+
+==================================================
+Run 7:
+Best Correlation Score: 0.2142
+Best Accuracy Score: 0.9209
+
+Selected Features:
+ ['CardiovascularDisease', 'BehavioralProblems', 'SleepQuality', 'Forgetfulness', 'DietQuality', 'PhysicalActivity', 'Smoking', 'Disorientation', 'CholesterolTriglycerides', 'MemoryComplaints', 'FunctionalAssessment', 'ADL', 'MMSE', 'Hypertension']
+================================================== 
+
+==================================================
+Run 8:
+Best Correlation Score: 0.2152
+Best Accuracy Score: 0.9156
+
+Selected Features:
+ ['BehavioralProblems', 'Disorientation', 'MemoryComplaints', 'FunctionalAssessment', 'ADL', 'MMSE', 'Hypertension']
+================================================== 
+
+==================================================
+Run 9:
+Best Correlation Score: 0.1906
+Best Accuracy Score: 0.9182
+
+Selected Features:
+ ['Diabetes', 'BehavioralProblems', 'SleepQuality', 'DietQuality', 'Disorientation', 'Gender', 'MemoryComplaints', 'FunctionalAssessment', 'ADL', 'Ethnicity', 'MMSE', 'AlcoholConsumption']
+================================================== 
+
+==================================================
+Run 10:
+Best Correlation Score: 0.2151
+Best Accuracy Score: 0.9169
+
+Selected Features:
+ ['BehavioralProblems', 'DifficultyCompletingTasks', 'SleepQuality', 'PersonalityChanges', 'DietQuality', 'Confusion', 'Forgetfulness', 'Gender', 'HeadInjury', 'MemoryComplaints', 'CholesterolTriglycerides', 'FunctionalAssessment', 'ADL', 'MMSE']
+================================================== 
